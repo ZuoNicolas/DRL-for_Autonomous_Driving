@@ -7,8 +7,8 @@
 
 You will find all the code files in the src directory, but if you want to run the code quickly to avoid import errors, you can directly run **Project_presentation.ipynb**, where you just have to follow the basic instructions at the beginning and run one by one the code cells
 
-#### Important this project was realized with Python 3.7.9 and with the last version of the libraries used
-#### With the Windows 0.9.12 version of Carla, although there should be no problem with other versions and linux versions under Ubuntu, but not yet tested!
+### Important this project was realized with Python 3.7.9 and with the last version of the libraries used
+### With the Windows 0.9.12 version of Carla, although there should be no problem with other versions and linux versions under Ubuntu, but not yet tested!
 
 
 This project was done during 1 weekend, and it still needs a lot of changes and improvements. The improvements and changes for the continuation of this project will be :
@@ -29,8 +29,11 @@ This project was done during 1 weekend, and it still needs a lot of changes and 
   <img src="https://github.com/ZuoNicolas/DRL-for_Autonomous_Driving/blob/main/presentation_video/second_learn.gif" alt="animated" />
 </p>
 
+### Evolution of the score over time, with epsilon the exploration rate over time, with a minimum of 0.10 :
+
 <p align="center">
   <img src="https://github.com/ZuoNicolas/DRL-for_Autonomous_Driving/blob/main/data/DQN-EnvDistanceReward-300-1635362488.656119.jpg" />
 </p>
 
-
+## Summary:
+The result obtained satisfies my initial expectations, that is to say a very simple model so that the vehicle can advance in its environment without colliding. We can see that it is still a bit unstable, because the vehicle moves in all directions, but this is normal, because the vehicle does not take into account the signs and markings on the ground, which are not yet implemented. But as said before, a lot of improvement can still be made to this model.
