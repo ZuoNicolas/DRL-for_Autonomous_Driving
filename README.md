@@ -36,4 +36,4 @@ This project was done during 1 weekend, and it still needs a lot of changes and 
 </p>
 
 ## Summary:
-The result obtained satisfies my initial expectations, that is to say a very simple model so that the vehicle can advance in its environment without colliding. We can see that it is still a bit unstable, because the vehicle moves in all directions, but this is normal, because the vehicle does not take into account the signs and markings on the ground, which are not yet implemented. But as said before, a lot of improvement can still be made to this model.
+The result obtained satisfies my initial expectations, that is to say a very simple model so that the vehicle can move forward in its environment without colliding. We can see that it is still a bit unstable, because the vehicle moves in all directions, but this is normal, because the vehicle does not take into account the signs and markings on the ground, which are not yet implemented. But as said before, a lot of improvement can still be made to this model.
