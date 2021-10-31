@@ -1,8 +1,8 @@
 # Deep Reinforcement Learning for Autonomous Driving, with Carla simulator
 
+Result obtained with the first environment
 <p align="center">
   <img src="https://github.com/ZuoNicolas/DRL-for_Autonomous_Driving/blob/main/presentation_video/first_learn.gif" alt="animated" />
-  Result obtained with the first environment
 </p>
 
 You will find all the code files in the src directory, but if you want to run the code quickly to avoid import errors, you can directly run **Project_presentation.ipynb**, where you just have to follow the basic instructions at the beginning and run one by one the code cells
