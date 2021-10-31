@@ -29,3 +29,8 @@ This project was done during 1 weekend, and it still needs a lot of changes and 
   <img src="https://github.com/ZuoNicolas/DRL-for_Autonomous_Driving/blob/main/presentation_video/second_learn.gif" alt="animated" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/ZuoNicolas/DRL-for_Autonomous_Driving/blob/main/data/DQN-EnvDistanceReward-300-1635362488.656119.jpg" />
+</p>
+
+
