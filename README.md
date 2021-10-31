@@ -1,7 +1,9 @@
 # Deep Reinforcement Learning for Autonomous Driving, with Carla simulator
 
 <p align="center">
+    
 ![Alt Text](https://github.com/ZuoNicolas/DRL-for_Autonomous_Driving/blob/main/presentation_video/first_learn.gif)
+    
 </p>
     
 #### Important this project was realized with Python 3.7.9 and with the last version of the libraries used
