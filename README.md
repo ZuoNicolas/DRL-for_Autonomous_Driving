@@ -15,7 +15,7 @@ This project was done during 1 weekend, and it still needs a lot of changes and 
 
 1. Change the neural network to a convolution type network (CNN). Which is much more suitable when using image data as input.
 
-2. A SSH connection to the faculty computers, rather than a local connection, to avoid latencies (on my PC), because my GPU is not powerful enough to support the Simulator and the model learning with CUDA, which uses all the GPU without limitation. This makes the simulator slow down and create a latency.
+2. A SSH connection to the faculty computers, rather than a local connection, to avoid latencies (on my PC), because my GPU is not powerful enough to support the Simulator and the model training with CUDA, which uses all the GPU without limitation. This makes the simulator slow down and creates a latency.
 
 3. Documentation on a way to have a better method to define the reward functions, because until now, it was defined in an arbitrary way. The EPIC method for Equivalent-Policy Invariant Comparison, seems to be a promising way.
     
