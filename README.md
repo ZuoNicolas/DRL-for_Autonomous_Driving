@@ -21,7 +21,7 @@ This project was done during 1 weekend, and it still needs a lot of changes and 
     
 4. Then an optimization of the hypers-parameters, with Optuna and also with the NAS method, to automate the design of artificial neural networks, so that it is optimal !
 
-5. To test also other type of sensor that Carla proposes, because there we use only the front RGB camera of the vehicle.
+5. To test also the other types of sensor that Carla proposes, because here we use only the front RGB camera of the vehicle.
 
 ### Result obtained with the second environment which calculates the reward according to the distance.
 
