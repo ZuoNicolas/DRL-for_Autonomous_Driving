@@ -8,7 +8,7 @@
 You will find all the code files in the src directory, but if you want to run the code quickly to avoid import errors, because I have not yet tested on other machine than mine with my set up, you can directly run **Project_presentation.ipynb**, where you just have to follow the basic instructions at the beginning and run one by one the code cells
 
 Important this project was realized with **Python 3.7.9** and with the last version of the libraries used.
-With the Windows 0.9.12 version of Carla, although there should be no problem with other versions and linux versions under Ubuntu, but not yet tested!
+The project was based on the Windows 0.9.12 version of Carla, but there should be no problem running it with the Linux or Ubuntu versions, although I have not tested it yet !
 
 
 This project was done during 1 weekend, and it still needs a lot of changes and improvements. The improvements and changes for the continuation of this project will be :
