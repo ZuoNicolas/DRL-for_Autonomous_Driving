@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning for Autonomous Driving, with Carla simulator
 
-### Result obtained with the first environment :
+### Result obtained with my first environment :
 <p align="center">
   <img src="https://github.com/ZuoNicolas/DRL-for_Autonomous_Driving/blob/main/presentation_video/first_learn.gif" alt="animated" />
 </p>
