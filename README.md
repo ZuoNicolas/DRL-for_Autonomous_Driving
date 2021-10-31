@@ -2,7 +2,7 @@
 
 <p align="center">
     
-![Alt Text](https://github.com/ZuoNicolas/DRL-for_Autonomous_Driving/blob/main/presentation_video/first_learn.gif)
+<![Alt Text](https://github.com/ZuoNicolas/DRL-for_Autonomous_Driving/blob/main/presentation_video/first_learn.gif)>
     
 </p>
     
