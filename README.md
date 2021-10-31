@@ -5,7 +5,7 @@
   <img src="https://github.com/ZuoNicolas/DRL-for_Autonomous_Driving/blob/main/presentation_video/first_learn.gif" alt="animated" />
 </p>
 
-You will find all the code files in the src directory, but if you want to run the code quickly to avoid import errors, you can directly run **Project_presentation.ipynb**, where you just have to follow the basic instructions at the beginning and run one by one the code cells
+You will find all the code files in the src directory, but if you want to run the code quickly to avoid import errors, because I have not yet tested on other machine than mine with my set up, you can directly run **Project_presentation.ipynb**, where you just have to follow the basic instructions at the beginning and run one by one the code cells
 
 ### Important this project was realized with Python 3.7.9 and with the last version of the libraries used
 ### With the Windows 0.9.12 version of Carla, although there should be no problem with other versions and linux versions under Ubuntu, but not yet tested!
